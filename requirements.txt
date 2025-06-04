@@ -1,0 +1,27 @@
+# Web Framework
+fastapi
+uvicorn
+
+# Environment Variables
+python-dotenv
+
+# LangChain Libraries
+langchain
+langchain-core
+langchain-openai
+langchain-community
+
+# Database
+psycopg2-binary
+sqlalchemy
+asyncpg
+aiomysql
+
+# HTTP Client
+httpx
+
+# Data Validation
+pydantic
+
+# OpenAI API
+openai
